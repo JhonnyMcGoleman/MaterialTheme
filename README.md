@@ -28,3 +28,10 @@ WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 License for the specific language governing permissions and limitations under
 the License.
 ```
+Le cambie el color al titulo de
+https://github.com/JhonnyMcGoleman/MaterialTheme/blob/main/MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml
+
+a purpura,cambie theme_name_hint de:
+https://github.com/JhonnyMcGoleman/MaterialTheme/blob/main/MaterialThemeBuilder/app/src/main/res/values/strings.xml
+
+luego hice una rama en la que hize cambios indeseados para luego deshacerlo y volver al momento en el que solo cambie el titulo a purpura.
