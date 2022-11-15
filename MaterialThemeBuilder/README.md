@@ -32,3 +32,11 @@ Sync, build and run the project. The project, by default, will be configured wit
 Under the ‘res’ folder, open `color.xml`, `type.xml` and `shape.xml`. Each file has detailed comments describing the Material subsystem it controls. Try modifying each subsystem, re-running the app and seeing how changes are propagated throughout the app.
 
 Once you build your Material theme, move the theme resources (`color.xml`, `type.xml`, `shape.xml`, `styles.xml`, `themes.xml` and `night/themes.xml`) over to your app to start using your Material theme in your own projects.
+
+Le cambie el color al titulo de 
+MaterialThemeBuilder/app/src/main/res/layout/activity_main.xml
+
+a purpura,cambie el hint de:
+MaterialThemeBuilder/app/src/main/res/values/strings.xml
+
+luego hice una rama en la que hize cambios indeseados para luego deshacerlo y volver al momento en el que solo cambie el titulo a purpura.
